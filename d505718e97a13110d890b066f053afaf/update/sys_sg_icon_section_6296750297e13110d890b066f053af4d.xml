@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>6296750297e13110d890b066f053af2e</applets>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles>em_email_admin,em_email_viewer,em_email_user</required_roles>
+        <row_count/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:36:44</sys_created_on>
+        <sys_id>6296750297e13110d890b066f053af4d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Emails</sys_name>
+        <sys_package display_value="Email Management" source="d505718e97a13110d890b066f053afaf">d505718e97a13110d890b066f053afaf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Email Management">d505718e97a13110d890b066f053afaf</sys_scope>
+        <sys_update_name>sys_sg_icon_section_6296750297e13110d890b066f053af4d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:36:44</sys_updated_on>
+        <table/>
+        <title>User Emails</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_icon_section>
+</record_update>

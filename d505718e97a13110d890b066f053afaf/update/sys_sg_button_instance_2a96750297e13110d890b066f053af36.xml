@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (User Emails)">6696750297e13110d890b066f053af34</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (User Emails)</name>
+        <order/>
+        <parent>6e96750297e13110d890b066f053af31</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:36:44</sys_created_on>
+        <sys_id>2a96750297e13110d890b066f053af36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (User Emails)</sys_name>
+        <sys_package display_value="Email Management" source="d505718e97a13110d890b066f053afaf">d505718e97a13110d890b066f053afaf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Email Management">d505718e97a13110d890b066f053afaf</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2a96750297e13110d890b066f053af36</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:36:44</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=2a96750297e13110d890b066f053af36"/>
+</record_update>

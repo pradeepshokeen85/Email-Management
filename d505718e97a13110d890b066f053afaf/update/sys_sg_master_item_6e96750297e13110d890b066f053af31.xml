@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>u_user_emails</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="User Emails Form Screen">ee96750297e13110d890b066f053af2e</embedded_screen>
+        <item_view/>
+        <name>User Emails master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:36:44</sys_created_on>
+        <sys_id>6e96750297e13110d890b066f053af31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Emails master_item</sys_name>
+        <sys_package display_value="Email Management" source="d505718e97a13110d890b066f053afaf">d505718e97a13110d890b066f053afaf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Email Management">d505718e97a13110d890b066f053afaf</sys_scope>
+        <sys_update_name>sys_sg_master_item_6e96750297e13110d890b066f053af31</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:36:44</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="User Emails List Screen View Config">2296750297e13110d890b066f053af1e</view_config>
+    </sys_sg_master_item>
+</record_update>

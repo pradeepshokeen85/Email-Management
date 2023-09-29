@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New (User Emails)</name>
+        <parameter_screen/>
+        <query_condition table="u_user_emails">sys_idSTARTSWITH{{User Emails sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{User Emails sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 11:36:44</sys_created_on>
+        <sys_id>6e96750297e13110d890b066f053af43</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New (User Emails)</sys_name>
+        <sys_package display_value="Email Management" source="d505718e97a13110d890b066f053afaf">d505718e97a13110d890b066f053afaf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Email Management">d505718e97a13110d890b066f053afaf</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_6e96750297e13110d890b066f053af43</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 11:36:44</sys_updated_on>
+        <table>u_user_emails</table>
+        <template>u_number={{User Emails u_number}}^u_user={{User Emails u_user}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=6e96750297e13110d890b066f053af43"/>
+</record_update>
